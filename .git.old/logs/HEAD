@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 24ce783c9805d3b4aedcf3db05314be7a35bc3ad TheVytch <edu.vytch@gmail.com> 1642706750 -0300	commit (initial): initial commit
+24ce783c9805d3b4aedcf3db05314be7a35bc3ad abf22bfe84c316b3b41417c255bbb63900695fd7 TheVytch <edu.vytch@gmail.com> 1642708130 -0300	commit: Angular material instalado no projeto
+abf22bfe84c316b3b41417c255bbb63900695fd7 dd5d975ddeb1e650d9d339e0f4beb62a27fafc08 TheVytch <edu.vytch@gmail.com> 1642718161 -0300	commit: imlpementando home com rota
+dd5d975ddeb1e650d9d339e0f4beb62a27fafc08 ed1fccb900d3ed6139f89f528283ef3de0398bc4 TheVytch <edu.vytch@gmail.com> 1642722795 -0300	commit: categoria-read foi implementado
+ed1fccb900d3ed6139f89f528283ef3de0398bc4 4cc14a1bd21bbc9e159805c17c7b4fb82e81f27c TheVytch <edu.vytch@gmail.com> 1642783074 -0300	commit: Ajuste no component-read
+4cc14a1bd21bbc9e159805c17c7b4fb82e81f27c 66e583d74821e92580ff8ab8ecf11f385ca04d9b TheVytch <edu.vytch@gmail.com> 1642799675 -0300	commit: Metodo create implementado para categoria
+66e583d74821e92580ff8ab8ecf11f385ca04d9b 22b1c776debfbcb9be8d07fa1aa2116ac99800b3 TheVytch <edu.vytch@gmail.com> 1642799823 -0300	commit: Finalizando metodo create, faltou o cancel rsrsrsrs
+22b1c776debfbcb9be8d07fa1aa2116ac99800b3 0d9b47938edfa628bfaa2bcc75b1e61b96d67eb8 TheVytch <edu.vytch@gmail.com> 1642802171 -0300	commit: Categoria delete implementada
+0d9b47938edfa628bfaa2bcc75b1e61b96d67eb8 f7ea00c4f623b1739c30fb04d4c208dcb693201b TheVytch <edu.vytch@gmail.com> 1642803922 -0300	commit: update para categoria implementado
+f7ea00c4f623b1739c30fb04d4c208dcb693201b 30da06022129a459a9616f295a7930c24e3ecead TheVytch <edu.vytch@gmail.com> 1642809402 -0300	commit: leitura de todos os jogos implementado
+30da06022129a459a9616f295a7930c24e3ecead 9b889eef9ed23a15b44593f9fb9e56d3ba30ac99 TheVytch <edu.vytch@gmail.com> 1642814056 -0300	commit: implementando update na classe jogos
+9b889eef9ed23a15b44593f9fb9e56d3ba30ac99 b8f55967b8ffa4667d96fbdd154f3fcf9880c9bc TheVytch <edu.vytch@gmail.com> 1642821054 -0300	commit: criando read
+b8f55967b8ffa4667d96fbdd154f3fcf9880c9bc d0c9ca70b491827720098beed7e307d70eb4b29c TheVytch <edu.vytch@gmail.com> 1642821127 -0300	commit: ajustes
+d0c9ca70b491827720098beed7e307d70eb4b29c 531c9cb1d4030ef8cfbc9ce9c90952b5390fced8 TheVytch <edu.vytch@gmail.com> 1642821605 -0300	commit: ajuste
+531c9cb1d4030ef8cfbc9ce9c90952b5390fced8 97bde58bc7f2d5d70a60768c2dd64aba49301bd0 TheVytch <edu.vytch@gmail.com> 1642869177 -0300	commit: connfig para deploy
